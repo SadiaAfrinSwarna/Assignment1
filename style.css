@@ -44,7 +44,33 @@ font-size: 30px;
     border-radius: 7px;
     font-weight: 700;
     font-size: 40px;
+    border: 2px;
 }
-
-
+.flexible-container{
+    display: flex;
+}
+#forWhom1{
+    background-color: rgb(185, 167, 168);
+    width: 70%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20pz;
+}
+#forWhom2{
+    background-color:darkseagreen;
+    width: 70%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20pz;
+}
+#forWhom3{
+    background-color:lightpink;
+    width: 70%;
+    margin-left: 3%;
+    margin-right: 3%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20pz;
+}
 
