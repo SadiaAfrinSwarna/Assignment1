@@ -18,12 +18,13 @@ font-size: 30px;
 .link-button{
     text-decoration: none;
     background-color:rgb(218, 22, 22);
-    padding:15px 40px;
+    padding:5px 40px;
     border-radius: 7px;
     font-weight: 700;
     color: aliceblue;
     font-size: 25px;
     margin: 630px;
+    
   
 }
 .header1{
@@ -45,6 +46,8 @@ font-size: 30px;
     font-weight: 700;
     font-size: 40px;
     border: 2px;
+    margin-left: 30%;
+    margin-right: 20%;
 }
 .flexible-container{
     display: flex;
@@ -54,23 +57,57 @@ font-size: 30px;
     width: 70%;
     margin-left: 3%;
     margin-right: 3%;
-    box-shadow: 10px 10px 40px gray;
-    padding: 20pz;
+    box-shadow:  gray;
+    padding: 20px;
 }
 #forWhom2{
-    background-color:darkseagreen;
+    background-color:rgb(211, 241, 211);
     width: 70%;
     margin-left: 3%;
     margin-right: 3%;
-    box-shadow: 10px 10px 40px gray;
-    padding: 20pz;
+    box-shadow:  gray;
+    padding: 20px;
 }
 #forWhom3{
-    background-color:lightpink;
+    background-color:rgb(251, 225, 229);
     width: 70%;
     margin-left: 3%;
     margin-right: 3%;
-    box-shadow: 10px 10px 40px gray;
-    padding: 20pz;
+    box-shadow:  gray;
+    padding: 20px;
 }
+.half{
+    width: 50%;
+    padding-left: 1%
+    padding: top 50px;
+}
+.half img{
+    width: 80%;
+    padding-top: 80px;
+    padding-left: 100px;
+}
+.button{
+    text-decoration: none;
+    background-color:rgb(218, 22, 22);
+    padding:5px 40px;
+    border-radius: 7px;
+    font-weight: 700;
+    color: aliceblue;
+    font-size: 25px;
+}
+.header3{
+    text-align: center;
+    padding-top: 90px;
+   font-size: 50px;
+}
+.para2{
+    color:rgb(125, 119, 119);
+    text-align: center;
+}
+footer{
+    color:crimson;
+    text-align: center;
+    background-color: black;
+    background-size:80px 100px ;
 
+}
