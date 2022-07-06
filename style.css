@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto', sans-serif;  
+}
+#para1{
+text-align: center;
+font-size: 30px;
+}
+.letshelp{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left, right;
+    height: 700px;
+    color: aliceblue;
+    font-weight: 50px;
+    margin: 0;
+}
+.link-button{
+    text-decoration: none;
+    background-color:rgb(218, 22, 22);
+    padding:15px 40px;
+    border-radius: 7px;
+    font-weight: 700;
+    color: aliceblue;
+    font-size: 25px;
+    margin: 630px;
+  
+}
+.header1{
+    text-align: center;
+    padding-top: 90px;
+    color: aliceblue;
+    font-size: 90px;
+}
+.header2{
+    text-align: center;
+    padding-top: 90px;
+    font-size: 60px;
+}
+.ammount-button{
+    text-decoration: none;
+    background-color:lightgray;
+    padding: 40px 40px;
+    border-radius: 7px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+
+
